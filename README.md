@@ -1,0 +1,1 @@
+Very simple gem for mocking an sftp session - as a gem so I can share it around, even though it is barely worth the effort!
